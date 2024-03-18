@@ -2,10 +2,9 @@ import { convidados } from './nomes.js'
 
 //const convidados = require("./nomes.json");
 
-const thisURL = new URL(document.URL)
-const thisURL2 = new URLSearchParams(thisURL.search);
-console.log(thisURL);
-
+const thisURL = new URL(document.URL);
+const thisURLpathname = thisURL.pathname.split("/");
+console.log(thisURLpathname[thisURLpathname.length-1]);
 
 // DECLARAÇÃO DE VARIÁVEIS
 //const botaoOrdemHTML = document.querySelector('button.ordemMatriz');
