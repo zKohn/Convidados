@@ -296,7 +296,7 @@
         "Maria Julia Silva Freitas",
         "Davi Luiz Freitas",
         "Marilda de Freitas",
-        "Isabe",
+        "Isabel de Freitas",
         "Pr. Antonio Carlos de Menezes",
         "Karla Andreia F. B de Menezes",
         "Mirian Mara",
