@@ -286,5 +286,24 @@
         "Larissa Dias almeida",
         "Fernanda de Souza Goncalves Silva",
         "Alam Jhone da Silva",
-        "Luiza Fernanda de Souza Goncalves"
+        "Luiza Fernanda de Souza Goncalves",
+
+        "Natalia Cristina de Almeida",
+        "Claudio Leonardo de Oliveira",
+        "Matheus Henrique Almeida De Freitas",
+        "Lorena Stefany Silva",
+        "Tabata Lorena de Almeida",
+        "Maria Julia Silva Freitas",
+        "Davi Luiz Freitas",
+        "Marilda de Freitas",
+        "Isabe",
+        "Pr. Antonio Carlos de Menezes",
+        "Karla Andreia F. B de Menezes",
+        "Mirian Mara",
+        "Geraldo junior",
+        "Robert hellon",
+        "Ronald helloy",
+        "Larissa Moura",
+        "Roberto matos Martins",
+        "Mariana Victoria"
     ]
