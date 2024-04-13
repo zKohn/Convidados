@@ -287,7 +287,7 @@
         "Fernanda de Souza Goncalves Silva",
         "Alam Jhone da Silva",
         "Luiza Fernanda de Souza Goncalves",
-
+        "Eduardo Henrique de Moura",
         "Natalia Cristina de Almeida",
         "Claudio Leonardo de Oliveira",
         "Matheus Henrique Almeida De Freitas",
